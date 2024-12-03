@@ -1,0 +1,46 @@
+header, footer {
+    background-color: rgba(60, 69, 67, .6);
+}
+.farGalaxy {
+    font-size: 1.5em;
+    letter-spacing: .2em;
+    line-height: 1.4;
+    text-align: justify;
+}
+header {
+    border-radius: 15px 15px 0 0;
+}
+
+footer {
+    border-radius: 0 0 15px 15px;
+    height: 6em;
+}
+
+h1 {
+    font-size: 2em;
+    padding: 1.5em 0;
+}
+
+.border {
+    border: 1px solid #eedb00 !important;
+    border-radius: 0 0 15px 15px;
+}
+
+.float-start > img {
+    box-shadow: rgba(60, 69, 67, .6) 10px 10px;
+}
+
+.btn-danger {
+    background-color: rgba(204, 3, 35, .5);
+    color: #eedb00;
+    border: 2px solid black;
+}
+
+.btn > p {
+    font-size: .8em;
+}
+
+.image {
+    height: 200px;
+    width: 200px;
+}
